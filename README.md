@@ -1,5 +1,5 @@
 # Bifröst Protocol
-A fast and secure cross-chain protocol for THORChain. Read the whitepaper here: [Bifröst Protocol Whitepaper](https://github.com/thorchain/Resources/tree/master/Whitepapers/bifrost-protocol)
+A fast and secure cross-chain protocol for THORChain. Read the whitepaper here: [Bifröst Protocol Whitepaper](https://github.com/thorchain/Resources/tree/master/Whitepapers/Bifrost-Protocol)
 
 ## Getting Started
 
